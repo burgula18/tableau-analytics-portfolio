@@ -15,4 +15,4 @@ Interactive Tableau dashboard analyzing the impact of COVID-19 on airline traffi
 - Data Storytelling
 
 ## Tableau Public Link
-[Paste your Tableau Public URL here.](https://public.tableau.com/app/profile/sainaren.burgula/viz/ImpactofCOVIDOnAirTravel/Dashboard1)
+https://public.tableau.com/app/profile/sainaren.burgula/viz/ImpactofCOVIDOnAirTravel/Dashboard1
