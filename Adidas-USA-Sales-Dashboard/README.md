@@ -29,4 +29,4 @@ This Tableau dashboard provides sales performance insights across the United Sta
 
 ## Tableau Public Link
 
-Paste your Tableau Public URL here.
+[Paste your Tableau Public URL here.](https://public.tableau.com/app/profile/sainaren.burgula/viz/AdidasUSASalesDashboard_17034418225810/AdidasSalesDashboard)
